@@ -9,7 +9,7 @@ La API sigue buenas prácticas de programación, aplicando patrones de diseño y
 
 La API permite:
 
-- Guardar, editar y eliminar licencias de Suboficiales en una base de datos SQL Server.
+- Guardar, editar y eliminar licencias en una base de datos SQL Server.
 - Validar y controlar que todos los campos sean obligatorios y tengan el formato correcto.
 - Exponer endpoints REST documentados con Swagger.
 - Probar los endpoints mediante Postman.

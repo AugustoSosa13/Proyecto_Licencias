@@ -1,7 +1,7 @@
 # Proyecto_Final - API de Licencias
 
 Este proyecto consiste en el desarrollo de una API en C# con Entity Framework que permite gestionar licencias, almacenando la información en una base de datos SQL Server.  
-La API sigue buenas prácticas de programación, aplicando patrones de diseño y documentación de endpoints con Swagger.
+
 
 ---
 
